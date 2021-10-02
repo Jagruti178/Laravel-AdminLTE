@@ -39,3 +39,7 @@ To submit a Pull Request, please fork this repository, create a new branch and c
 - Check that the Pull Request don't introduce a high downgrade on the code quality.
 - If the Pull Request introduce new features, consider adding the related documentation of this feature on the Wiki documentation.
 - Keep the package focused, don't add special support to other packages or to very particular situations. These changes will make the package more hard to maintain.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
