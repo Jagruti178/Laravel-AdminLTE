@@ -14,7 +14,8 @@ If you want to use an older **Laravel** or **AdminLTE** version, review the foll
   These releases supports Laravel 5 and include AdminLTE v2
 - **Releases 2.x**:
   These releases supports Laravel 6 or higher and include AdminLTE v2
-
+- **Releases 3.x**:
+  These releases supports Laravel 7 or higher and include AdminLTE v3
 ## Documentation
 
 All documentation is available on the [Wiki Pages](https://github.com/jeroennoten/Laravel-AdminLTE/wiki), we encourage you to read it. If you are new start with the [Installation Guide](https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Installation). To update the package consult the [Updating Guide](https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Updating).
